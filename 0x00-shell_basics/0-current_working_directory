@@ -1,2 +1,4 @@
 #!/bin/bash
-path='readlink -f "${BASH_SOURCE:-$0}"'
+root@6ff8a35b1a04:~/alx-system_engineering-devops/0x00-shell_basic
+
+s# ls
