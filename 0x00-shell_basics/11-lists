@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la /00x0-shell-basics /alx-system_engineering_devops /boot
+ls -l -l /00x0-shell-basics /alx-system_engineering_devops /boot
