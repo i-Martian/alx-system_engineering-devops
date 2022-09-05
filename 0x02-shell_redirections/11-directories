@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -mend 1 -type d | we -l
